@@ -6,6 +6,7 @@ public class Rental {
 
     String agreementid;
     private String tid;
+    Vector<Vehicle> vehicles = new Vector<>();
 
 
 
